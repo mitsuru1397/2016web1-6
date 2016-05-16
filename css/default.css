@@ -26,6 +26,11 @@ background-color: white;
   width: 468px;
 }
 
+.btn{
+  -webkit-appearance: none;
+  margin: 5px;
+}
+
 dt{
   clear: left;
   float: left;
